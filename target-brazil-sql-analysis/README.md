@@ -40,6 +40,11 @@ The project analyzes Brazilian e-commerce transactions across multiple states an
 
 ---
 
+# Database Schema
+
+![Database Schema](schema/schema_diagram.png)
+
+---
 # SQL Concepts Used
 
 This project demonstrates practical usage of:
