@@ -98,6 +98,35 @@ This project demonstrates practical usage of:
 - Installment-based payments were widely preferred by customers
 - Logistics inefficiencies varied significantly across regions
 
+  
+---
+
+
+# Sample Analysis Screenshots
+
+## Yearly Order Growth
+![Yearly Order Growth](screenshots/yearly_order_growth.png)
+
+---
+
+## Monthly Seasonality Analysis
+![Monthly Seasonality](screenshots/monthly_seasonality.png)
+
+---
+
+## Freight Cost Analysis
+![Freight Analysis](screenshots/freight_analysis.png)
+
+---
+
+## Delivery Performance Analysis
+![Delivery Analysis](screenshots/delivery_analysis.png)
+
+---
+
+## Payment Behavior Analysis
+![Payment Analysis](screenshots/payment_analysis.png)
+
 ---
 
 # Business Recommendations
