@@ -31,8 +31,7 @@ from sklearn.metrics import (
 # LOAD DATASET
 # =========================================
 
-df = pd.read_csv("LoanTapData.csv")
-
+df = pd.read_csv("../datasets/LoanTapData.csv")
 
 # =========================================
 # BASIC DATA EXPLORATION
@@ -41,6 +40,8 @@ df = pd.read_csv("LoanTapData.csv")
 print("\n================ DATASET INFO ================\n")
 
 print(df.info())
+
+
 
 
 print("\n================ FIRST 5 ROWS ================\n")
