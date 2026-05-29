@@ -17,7 +17,7 @@ import statsmodels.api as sm
 # LOAD DATASET
 # =========================================
 
-df = pd.read_csv("Walmart_data.csv")
+df = pd.read_csv("../datasets/Walmart_data.csv")
 
 
 # =========================================
